@@ -1,4 +1,4 @@
-//归并排序 递归与非递归实现
+//归并排序 递归与非递归实现  从小到大
 class Solution {
 public:
     void merge(vector<int> &nums,int L1,int R1,int L2,int R2)
